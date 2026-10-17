@@ -1,0 +1,642 @@
+{
+  "画廊": {
+    "en": "Gallery",
+    "ja": "ギャラリー",
+    "ko": "갤러리"
+  },
+  "为你的足迹打上标签": {
+    "en": "Tag the places you've been",
+    "ja": "あなたの足跡にタグを",
+    "ko": "당신의 발자취에 태그를"
+  },
+  "将图片拖到这里，或从资料库中选择\n调整 EXIF、拍摄参数、位置信息与版权": {
+    "en": "Drop a photo here or choose one from your gallery\nAdjust EXIF, camera settings, location and copyright",
+    "ja": "写真をここにドロップするか、ギャラリーから選択\nEXIF・撮影設定・位置情報・著作権を調整",
+    "ko": "사진을 여기에 놓거나 갤러리에서 선택하세요\nEXIF, 촬영 설정, 위치 및 저작권을 조정하세요"
+  },
+  "选择图片…": {
+    "en": "Choose photo…",
+    "ja": "写真を選択…",
+    "ko": "사진 선택…"
+  },
+  "添加图片": {
+    "en": "Add photos",
+    "ja": "写真を追加",
+    "ko": "사진 추가"
+  },
+  "照片元数据工作室": {
+    "en": "Photo metadata studio",
+    "ja": "写真メタデータスタジオ",
+    "ko": "사진 메타데이터 스튜디오"
+  },
+  "编辑信息": {
+    "en": "Edit details",
+    "ja": "情報を編集",
+    "ko": "정보 편집"
+  },
+  "全部元数据": {
+    "en": "All metadata",
+    "ja": "すべてのメタデータ",
+    "ko": "모든 메타데이터"
+  },
+  "全部": {
+    "en": "All",
+    "ja": "すべて",
+    "ko": "전체"
+  },
+  "图片工作台": {
+    "en": "Photo workspace",
+    "ja": "写真ワークスペース",
+    "ko": "사진 작업 공간"
+  },
+  "让每一张照片的信息井然有序": {
+    "en": "Keep every photo's details in order",
+    "ja": "写真の情報をすっきり整理",
+    "ko": "사진 정보를 깔끔하게 정리하세요"
+  },
+  "读取、整理与编辑照片元数据": {
+    "en": "View, organize and edit photo metadata",
+    "ja": "写真のメタデータを表示・整理・編集",
+    "ko": "사진 메타데이터 보기, 정리 및 편집"
+  },
+  "无损另存为": {
+    "en": "Export losslessly",
+    "ja": "無劣化で書き出す",
+    "ko": "무손실 내보내기"
+  },
+  "无损另存为…": {
+    "en": "Export losslessly…",
+    "ja": "無劣化で書き出す…",
+    "ko": "무손실 내보내기…"
+  },
+  "打开图片…": {
+    "en": "Open photos…",
+    "ja": "写真を開く…",
+    "ko": "사진 열기…"
+  },
+  "保存更改": {
+    "en": "Save changes",
+    "ja": "変更を保存",
+    "ko": "변경 사항 저장"
+  },
+  "好": {
+    "en": "OK",
+    "ja": "OK",
+    "ko": "확인"
+  },
+  "图片预览": {
+    "en": "Photo preview",
+    "ja": "写真プレビュー",
+    "ko": "사진 미리보기"
+  },
+  "正在读取图片…": {
+    "en": "Loading photo…",
+    "ja": "写真を読み込み中…",
+    "ko": "사진 불러오는 중…"
+  },
+  "无法预览此图片": {
+    "en": "Preview unavailable",
+    "ja": "プレビューできません",
+    "ko": "미리 볼 수 없습니다"
+  },
+  "仍可查看已识别的元数据": {
+    "en": "Detected metadata is still available",
+    "ja": "取得したメタデータは表示できます",
+    "ko": "읽어 온 메타데이터는 확인할 수 있습니다"
+  },
+  "尺寸": {
+    "en": "Dimensions",
+    "ja": "サイズ",
+    "ko": "크기"
+  },
+  "文件大小": {
+    "en": "File size",
+    "ja": "ファイルサイズ",
+    "ko": "파일 크기"
+  },
+  "元数据": {
+    "en": "Metadata",
+    "ja": "メタデータ",
+    "ko": "메타데이터"
+  },
+  "%d 项": {
+    "en": "%d items",
+    "ja": "%d 項目",
+    "ko": "%d개 항목"
+  },
+  "修改信息，保留原始画质": {
+    "en": "Edit details, preserve image quality",
+    "ja": "情報を編集し、元の画質を保持",
+    "ko": "정보를 편집하고 원본 화질은 유지"
+  },
+  "导出文件名": {
+    "en": "Export filename",
+    "ja": "書き出すファイル名",
+    "ko": "내보낼 파일 이름"
+  },
+  "文件名": {
+    "en": "Filename",
+    "ja": "ファイル名",
+    "ko": "파일 이름"
+  },
+  "另存副本使用此名称，原文件保留。": {
+    "en": "Exports use this name. The original is kept.",
+    "ja": "この名前でコピーを保存し、元の写真は保持します。",
+    "ko": "이 이름으로 사본을 저장하며 원본은 유지됩니다."
+  },
+  "标题与版权": {
+    "en": "Title & copyright",
+    "ja": "タイトルと著作権",
+    "ko": "제목 및 저작권"
+  },
+  "日期与时间": {
+    "en": "Date & time",
+    "ja": "日付と時刻",
+    "ko": "날짜 및 시간"
+  },
+  "地点与 GPS": {
+    "en": "Location & GPS",
+    "ja": "場所と GPS",
+    "ko": "위치 및 GPS"
+  },
+  "相机与拍摄参数": {
+    "en": "Camera & exposure",
+    "ja": "カメラと撮影設定",
+    "ko": "카메라 및 촬영 설정"
+  },
+  "在 Apple 地图中选择位置": {
+    "en": "Choose in Apple Maps",
+    "ja": "Apple マップで場所を選択",
+    "ko": "Apple 지도에서 위치 선택"
+  },
+  "搜索地点或地图选点；保存更改保留编辑，导出时写入图片。": {
+    "en": "Search or pick a point. Save changes keeps a draft; export writes it to the photo.",
+    "ja": "検索または地図で選択。変更の保存で下書きを保持し、書き出し時に写真へ反映します。",
+    "ko": "검색하거나 지도에서 선택하세요. 변경 사항은 초안으로 저장되며 내보낼 때 사진에 기록됩니다."
+  },
+  "修改拍摄时间会同步 XMP 创建时间；也可单独编辑下方 XMP 时间。": {
+    "en": "Capture time also updates XMP creation time, which you can edit separately below.",
+    "ja": "撮影日時を変更すると XMP 作成日時も更新されます。下で個別に編集できます。",
+    "ko": "촬영 시간을 변경하면 XMP 생성 시간도 갱신됩니다. 아래에서 따로 수정할 수 있습니다."
+  },
+  "全部应用": {
+    "en": "Apply to all",
+    "ja": "すべてに適用",
+    "ko": "모두 적용"
+  },
+  "将拍摄时间应用到其余常用时间字段": {
+    "en": "Apply capture time to the other date fields",
+    "ja": "撮影日時をほかの日付項目にも適用",
+    "ko": "촬영 시간을 다른 날짜 항목에도 적용"
+  },
+  "移除 GPS 定位标签": {
+    "en": "Remove GPS tags",
+    "ja": "GPS タグを削除",
+    "ko": "GPS 태그 제거"
+  },
+  "导出时清除 EXIF / XMP GPS 坐标；描述、地名及厂商私有字段可能仍含位置信息。": {
+    "en": "Remove EXIF / XMP coordinates on export. Descriptions, place names and maker fields may still contain location information.",
+    "ja": "書き出し時に EXIF / XMP 座標を削除。説明、地名、メーカー独自項目には位置情報が残る場合があります。",
+    "ko": "내보낼 때 EXIF / XMP 좌표를 제거합니다. 설명, 지명 및 제조사 전용 항목에는 위치 정보가 남을 수 있습니다."
+  },
+  "撤销全部修改": {
+    "en": "Reset all edits",
+    "ja": "すべての編集を元に戻す",
+    "ko": "모든 수정 되돌리기"
+  },
+  "搜索标签、中文名称或内容": {
+    "en": "Search tags, names or values",
+    "ja": "タグ・名前・内容を検索",
+    "ko": "태그, 이름 또는 내용 검색"
+  },
+  "仅可编辑": {
+    "en": "Editable only",
+    "ja": "編集可能のみ",
+    "ko": "편집 가능한 항목만"
+  },
+  "添加字段": {
+    "en": "Add field",
+    "ja": "項目を追加",
+    "ko": "항목 추가"
+  },
+  "数值使用原始值；列表每行一项。留空删除。只读字段不支持安全无损修改。": {
+    "en": "Use raw values; one list item per line. Leave blank to remove. Read-only fields cannot be edited losslessly.",
+    "ja": "数値は元の値、リストは1行1項目。空欄で削除。読み取り専用項目は無劣化で編集できません。",
+    "ko": "원시 값을 사용하며 목록은 한 줄에 한 항목입니다. 비우면 삭제됩니다. 읽기 전용 항목은 무손실로 편집할 수 없습니다."
+  },
+  "分类": {
+    "en": "Category",
+    "ja": "分類",
+    "ko": "분류"
+  },
+  "只读": {
+    "en": "Read-only",
+    "ja": "読み取り専用",
+    "ko": "읽기 전용"
+  },
+  "留空删除": {
+    "en": "Leave blank to remove",
+    "ja": "空欄で削除",
+    "ko": "비우면 삭제"
+  },
+  "没有匹配的元数据": {
+    "en": "No matching metadata",
+    "ja": "一致するメタデータはありません",
+    "ko": "일치하는 메타데이터가 없습니다"
+  },
+  "清空": {
+    "en": "Clear",
+    "ja": "クリア",
+    "ko": "비우기"
+  },
+  "放弃尚未保存的修改？": {
+    "en": "Discard unsaved edits?",
+    "ja": "未保存の編集を破棄しますか？",
+    "ko": "저장하지 않은 수정을 버릴까요?"
+  },
+  "切换图片将清除当前编辑。": {
+    "en": "Switching photos discards unsaved edits.",
+    "ja": "写真を切り替えると未保存の編集は失われます。",
+    "ko": "사진을 전환하면 저장하지 않은 수정이 사라집니다."
+  },
+  "继续编辑": {
+    "en": "Keep editing",
+    "ja": "編集を続ける",
+    "ko": "계속 편집"
+  },
+  "放弃修改": {
+    "en": "Discard edits",
+    "ja": "編集を破棄",
+    "ko": "수정 버리기"
+  },
+  "已保存：编辑草稿，下次打开此图片会恢复": {
+    "en": "Draft saved. Edits will return when you reopen this photo.",
+    "ja": "下書きを保存しました。次回この写真を開くと編集内容が復元されます。",
+    "ko": "초안을 저장했습니다. 사진을 다시 열면 편집 내용이 복원됩니다."
+  },
+  "保存失败：文件名不能为空，也不能包含 /、: 或空字符。": {
+    "en": "Save failed: enter a filename without /, : or null characters.",
+    "ja": "保存失敗：空でないファイル名を入力してください。/、:、ヌル文字は使えません。",
+    "ko": "저장 실패: 파일 이름은 비워 둘 수 없으며 /, : 또는 널 문자를 포함할 수 없습니다."
+  },
+  "Apple 地图 · 图片位置": {
+    "en": "Apple Maps · Photo location",
+    "ja": "Apple マップ · 写真の場所",
+    "ko": "Apple 지도 · 사진 위치"
+  },
+  "搜索城市、街道或地点": {
+    "en": "Search city, street or place",
+    "ja": "都市・通り・場所を検索",
+    "ko": "도시, 거리 또는 장소 검색"
+  },
+  "搜索": {
+    "en": "Search",
+    "ja": "検索",
+    "ko": "검색"
+  },
+  "搜索地点，或点击地图选点。应用后随图片保存。": {
+    "en": "Search or click the map. Apply the location to your photo edits.",
+    "ja": "場所を検索するか地図をクリックし、写真の編集に適用します。",
+    "ko": "검색하거나 지도를 클릭한 후 사진 편집에 위치를 적용하세요."
+  },
+  "已选择地点，点击应用填入图片信息。": {
+    "en": "Place selected. Apply to update photo details.",
+    "ja": "場所を選択しました。「適用」で写真の情報を更新します。",
+    "ko": "장소를 선택했습니다. 적용하면 사진 정보에 반영됩니다."
+  },
+  "地点": {
+    "en": "Place",
+    "ja": "場所",
+    "ko": "장소"
+  },
+  "选中位置": {
+    "en": "Selected location",
+    "ja": "選択した場所",
+    "ko": "선택한 위치"
+  },
+  "纬度 %.6f · 经度 %.6f": {
+    "en": "Latitude %.6f · Longitude %.6f",
+    "ja": "緯度 %.6f · 経度 %.6f",
+    "ko": "위도 %.6f · 경도 %.6f"
+  },
+  "地图与地点搜索需要联网": {
+    "en": "Maps and search require internet access",
+    "ja": "地図と場所の検索にはインターネット接続が必要です",
+    "ko": "지도와 장소 검색에는 인터넷 연결이 필요합니다"
+  },
+  "取消": {
+    "en": "Cancel",
+    "ja": "キャンセル",
+    "ko": "취소"
+  },
+  "应用位置": {
+    "en": "Apply location",
+    "ja": "場所を適用",
+    "ko": "위치 적용"
+  },
+  "未找到地点，请换一个关键词。": {
+    "en": "No places found. Try another keyword.",
+    "ja": "場所が見つかりません。別の語句で検索してください。",
+    "ko": "장소를 찾을 수 없습니다. 다른 검색어를 입력하세요."
+  },
+  "选择搜索结果，或在地图上点击调整位置。": {
+    "en": "Choose a result or click the map to adjust.",
+    "ja": "検索結果を選ぶか地図をクリックして調整してください。",
+    "ko": "검색 결과를 선택하거나 지도를 클릭해 조정하세요."
+  },
+  "搜索失败，请检查网络后重试。": {
+    "en": "Search failed. Check your connection and try again.",
+    "ja": "検索に失敗しました。接続を確認して再試行してください。",
+    "ko": "검색에 실패했습니다. 연결을 확인하고 다시 시도하세요."
+  },
+  "已选择位置，点击应用填入图片信息。": {
+    "en": "Location selected. Apply to update photo details.",
+    "ja": "位置を選択しました。「適用」で写真の情報を更新します。",
+    "ko": "위치를 선택했습니다. 적용하면 사진 정보에 반영됩니다."
+  },
+  "未获取到地址，仍可应用经纬度；旧地址将清空。": {
+    "en": "Address unavailable. You can apply the coordinates; the old address will be cleared.",
+    "ja": "住所を取得できません。座標は適用できますが、以前の住所は削除されます。",
+    "ko": "주소를 찾을 수 없습니다. 좌표는 적용할 수 있으며 이전 주소는 삭제됩니다."
+  },
+  "添加元数据字段": {
+    "en": "Add metadata field",
+    "ja": "メタデータ項目を追加",
+    "ko": "메타데이터 항목 추가"
+  },
+  "完成": {
+    "en": "Done",
+    "ja": "完了",
+    "ko": "완료"
+  },
+  "搜索名称，例如 GPS、City、Date、作者": {
+    "en": "Search names, e.g. GPS, City, Date, Creator",
+    "ja": "名前を検索（GPS、City、Date、Creator など）",
+    "ko": "이름 검색: GPS, City, Date, Creator 등"
+  },
+  "可搜索 %d 个标准可写标签；可写范围取决于图片格式。最多显示 120 项。": {
+    "en": "Search %d writable tags; support depends on format. Up to 120 results.",
+    "ja": "%d 個の書き込み可能タグを検索。対応は形式により異なり、最大120件を表示します。",
+    "ko": "쓰기 가능한 태그 %d개를 검색합니다. 지원 여부는 형식에 따라 다르며 최대 120개를 표시합니다."
+  },
+  " · 每行一项": {
+    "en": " · one per line",
+    "ja": " · 1行1項目",
+    "ko": " · 한 줄에 한 항목"
+  },
+  "标题": {
+    "en": "Title",
+    "ja": "タイトル",
+    "ko": "제목"
+  },
+  "描述": {
+    "en": "Description",
+    "ja": "説明",
+    "ko": "설명"
+  },
+  "作者": {
+    "en": "Creator",
+    "ja": "作成者",
+    "ko": "작성자"
+  },
+  "版权": {
+    "en": "Copyright",
+    "ja": "著作権",
+    "ko": "저작권"
+  },
+  "拍摄时间": {
+    "en": "Capture time",
+    "ja": "撮影日時",
+    "ko": "촬영 시간"
+  },
+  "相机品牌": {
+    "en": "Camera make",
+    "ja": "カメラメーカー",
+    "ko": "카메라 제조사"
+  },
+  "相机型号": {
+    "en": "Camera model",
+    "ja": "カメラモデル",
+    "ko": "카메라 모델"
+  },
+  "镜头型号": {
+    "en": "Lens model",
+    "ja": "レンズモデル",
+    "ko": "렌즈 모델"
+  },
+  "评分": {
+    "en": "Rating",
+    "ja": "評価",
+    "ko": "평점"
+  },
+  "关键词": {
+    "en": "Keywords",
+    "ja": "キーワード",
+    "ko": "키워드"
+  },
+  "每行一个关键词": {
+    "en": "One keyword per line",
+    "ja": "1行に1キーワード",
+    "ko": "한 줄에 키워드 하나"
+  },
+  "EXIF 图片描述": {
+    "en": "EXIF description",
+    "ja": "EXIF 説明",
+    "ko": "EXIF 설명"
+  },
+  "图片描述": {
+    "en": "Photo description",
+    "ja": "写真の説明",
+    "ko": "사진 설명"
+  },
+  "EXIF 作者": {
+    "en": "EXIF creator",
+    "ja": "EXIF 作成者",
+    "ko": "EXIF 작성자"
+  },
+  "EXIF 版权": {
+    "en": "EXIF copyright",
+    "ja": "EXIF 著作権",
+    "ko": "EXIF 저작권"
+  },
+  "版权声明": {
+    "en": "Copyright notice",
+    "ja": "著作権表示",
+    "ko": "저작권 표시"
+  },
+  "数字化时间": {
+    "en": "Digitized time",
+    "ja": "デジタル化日時",
+    "ko": "디지털화 시간"
+  },
+  "EXIF 修改时间": {
+    "en": "EXIF modified time",
+    "ja": "EXIF 更新日時",
+    "ko": "EXIF 수정 시간"
+  },
+  "拍摄时区": {
+    "en": "Capture time zone",
+    "ja": "撮影タイムゾーン",
+    "ko": "촬영 시간대"
+  },
+  "XMP 创建时间": {
+    "en": "XMP created time",
+    "ja": "XMP 作成日時",
+    "ko": "XMP 생성 시간"
+  },
+  "XMP 修改时间": {
+    "en": "XMP modified time",
+    "ja": "XMP 更新日時",
+    "ko": "XMP 수정 시간"
+  },
+  "文件创建时间": {
+    "en": "File created time",
+    "ja": "ファイル作成日時",
+    "ko": "파일 생성 시간"
+  },
+  "文件修改时间": {
+    "en": "File modified time",
+    "ja": "ファイル更新日時",
+    "ko": "파일 수정 시간"
+  },
+  "本地时间 yyyy:MM:dd HH:mm:ss": {
+    "en": "Local time yyyy:MM:dd HH:mm:ss",
+    "ja": "現地時刻 yyyy:MM:dd HH:mm:ss",
+    "ko": "현지 시간 yyyy:MM:dd HH:mm:ss"
+  },
+  "ISO 感光度": {
+    "en": "ISO sensitivity",
+    "ja": "ISO 感度",
+    "ko": "ISO 감도"
+  },
+  "曝光时间（秒）": {
+    "en": "Exposure time (s)",
+    "ja": "露光時間（秒）",
+    "ko": "노출 시간(초)"
+  },
+  "光圈": {
+    "en": "Aperture",
+    "ja": "絞り",
+    "ko": "조리개"
+  },
+  "焦距（毫米）": {
+    "en": "Focal length (mm)",
+    "ja": "焦点距離（mm）",
+    "ko": "초점 거리(mm)"
+  },
+  "曝光补偿（EV）": {
+    "en": "Exposure compensation (EV)",
+    "ja": "露出補正（EV）",
+    "ko": "노출 보정(EV)"
+  },
+  "用户备注": {
+    "en": "User comment",
+    "ja": "ユーザーコメント",
+    "ko": "사용자 메모"
+  },
+  "备注": {
+    "en": "Comment",
+    "ja": "コメント",
+    "ko": "메모"
+  },
+  "处理软件": {
+    "en": "Processing software",
+    "ja": "処理ソフトウェア",
+    "ko": "처리 소프트웨어"
+  },
+  "软件名称": {
+    "en": "Software name",
+    "ja": "ソフトウェア名",
+    "ko": "소프트웨어 이름"
+  },
+  "为照片命名": {
+    "en": "Name your photo",
+    "ja": "写真に名前を付ける",
+    "ko": "사진 이름 입력"
+  },
+  "记录照片背后的故事": {
+    "en": "Tell the story behind the photo",
+    "ja": "写真にまつわる物語を記録",
+    "ko": "사진에 담긴 이야기 기록"
+  },
+  "摄影师姓名": {
+    "en": "Photographer's name",
+    "ja": "撮影者の名前",
+    "ko": "사진가 이름"
+  },
+  "已展开": {
+    "en": "Expanded",
+    "ja": "展開済み",
+    "ko": "펼쳐짐"
+  },
+  "已收起": {
+    "en": "Collapsed",
+    "ja": "折りたたみ",
+    "ko": "접힘"
+  },
+  "原图预览": {
+    "en": "Photo preview",
+    "ja": "写真プレビュー",
+    "ko": "사진 미리보기"
+  },
+  "保存失败：": {
+    "en": "Save failed: ",
+    "ja": "保存失敗：",
+    "ko": "저장 실패: "
+  },
+  "已保存：": {
+    "en": "Saved: ",
+    "ja": "保存済み：",
+    "ko": "저장됨: "
+  },
+  " · 保留原画质": {
+    "en": " · Original quality preserved",
+    "ja": " · 元の画質を保持",
+    "ko": " · 원본 화질 유지"
+  },
+  "元数据处理失败。": {
+    "en": "Metadata processing failed.",
+    "ja": "メタデータの処理に失敗しました。",
+    "ko": "메타데이터 처리에 실패했습니다."
+  },
+  "无法读取元数据。": {
+    "en": "Unable to read metadata.",
+    "ja": "メタデータを読み込めません。",
+    "ko": "메타데이터를 읽을 수 없습니다."
+  },
+  "请选择新的文件名，保留原始图片。": {
+    "en": "Choose a new filename to keep the original photo.",
+    "ja": "元の写真を保持するため新しいファイル名を選んでください。",
+    "ko": "원본 사진을 유지하려면 새 파일 이름을 선택하세요."
+  },
+  "不支持的编辑字段。": {
+    "en": "Unsupported editable field.",
+    "ja": "この項目の編集には対応していません。",
+    "ko": "지원하지 않는 편집 항목입니다."
+  },
+  "评分应为 0 至 5 的整数。": {
+    "en": "Rating must be an integer from 0 to 5.",
+    "ja": "評価は0〜5の整数で入力してください。",
+    "ko": "평점은 0~5 사이의 정수여야 합니다."
+  },
+  "拍摄时间格式应为 yyyy:MM:dd HH:mm:ss。": {
+    "en": "Use yyyy:MM:dd HH:mm:ss for capture time.",
+    "ja": "撮影日時は yyyy:MM:dd HH:mm:ss で入力してください。",
+    "ko": "촬영 시간은 yyyy:MM:dd HH:mm:ss 형식으로 입력하세요."
+  },
+  "不能同时修改 GPS 坐标并移除 GPS，请选择其中一种操作。": {
+    "en": "Choose either editing GPS coordinates or removing GPS.",
+    "ja": "GPS 座標の編集と削除は同時に行えません。",
+    "ko": "GPS 좌표 수정과 제거 중 하나를 선택하세요."
+  },
+  "坐标需要填写对应半球：纬度 N/S，经度 E/W。": {
+    "en": "Specify the hemisphere: N/S for latitude, E/W for longitude.",
+    "ja": "半球を指定してください：緯度 N/S、経度 E/W。",
+    "ko": "반구를 지정하세요: 위도 N/S, 경도 E/W."
+  },
+  "日期格式应为 yyyy:MM:dd HH:mm:ss，且必须为有效日期。": {
+    "en": "Enter a valid date in yyyy:MM:dd HH:mm:ss format.",
+    "ja": "有効な日付を yyyy:MM:dd HH:mm:ss 形式で入力してください。",
+    "ko": "yyyy:MM:dd HH:mm:ss 형식으로 유효한 날짜를 입력하세요."
+  }
+}

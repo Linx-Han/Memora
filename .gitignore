@@ -1,0 +1,15 @@
+# Generated builds and local editor state
+.build/
+.swiftpm/
+dist/
+.vscode/
+.DS_Store
+
+# Design iterations, not runtime assets
+output/
+
+# Local configuration and credentials
+.env
+.env.*
+*.pem
+*.key
